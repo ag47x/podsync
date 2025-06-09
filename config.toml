@@ -1,0 +1,13 @@
+[server]
+port = 8080
+
+[storage.local]
+data_dir = "/data"
+
+[tokens]
+youtube = "AIzaSyBb3uaNQJNLMcZFcb-XoV0NA5r3DQnNREQ"
+
+[feeds]
+[feeds.myfeed]
+url = "https://www.youtube.com/@название_канала"
+page_size = 10
