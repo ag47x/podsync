@@ -8,6 +8,6 @@ data_dir = "/data"
 youtube = "AIzaSyBb3uaNQJNLMcZFcb-XoV0NA5r3DQnNREQ"
 
 [feeds]
-[feeds.myfeed]
-url = "https://www.youtube.com/@название_канала"
-page_size = 10
+[feeds.IXBT]
+url = "https://www.youtube.com/@IXBTGames"
+page_size = 50
